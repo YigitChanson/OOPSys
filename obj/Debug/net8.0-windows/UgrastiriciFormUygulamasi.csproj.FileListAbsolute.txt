@@ -1,0 +1,16 @@
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UğraştırıcıFormUygulaması.Form1.resources
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.csproj.GenerateResource.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\bin\Debug\net8.0-windows\UgrastiriciFormUygulamasi.exe
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\bin\Debug\net8.0-windows\UgrastiriciFormUygulamasi.deps.json
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\bin\Debug\net8.0-windows\UgrastiriciFormUygulamasi.runtimeconfig.json
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\bin\Debug\net8.0-windows\UgrastiriciFormUygulamasi.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\bin\Debug\net8.0-windows\UgrastiriciFormUygulamasi.pdb
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.AssemblyInfo.cs
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\refint\UgrastiriciFormUygulamasi.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.pdb
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\UgrastiriciFormUygulamasi.genruntimeconfig.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\UğraştırıcıFormUygulaması\obj\Debug\net8.0-windows\ref\UgrastiriciFormUygulamasi.dll
